@@ -3,7 +3,7 @@ No, I am not going to tell you what my real name is or how to contact me, at lea
 
 Have been coding since like, since middle school? I actually don't remember, it's been so long. I started coding in Java back when the main JDK version was 13 or 14, IIRC, and now it's on its way to breach 20:joy:
 
-Currently a CS student, Reasonably proficient with C/Java/Kotlin, learning C++/Ada/Haskell. You can find me contributing [at this repository](https://github.com/TheAlgorithms/C), probably. (On the other hand, you probably found me there in the first place, then decided to pay my profile a visit)
+Currently a CS student, Reasonably proficient with C/Java/Kotlin, learning C++/Ada/Haskell. You can find me at [this repository](https://github.com/TheAlgorithms/C), probably. (On the other hand, you probably found me there in the first place, then decided to pay my profile a visit)
 
 Notice: A new semester have started here in China, my availability may be limited except on weekends.
 <!--
