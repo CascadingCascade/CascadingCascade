@@ -1,11 +1,13 @@
 ### Hi there 👋 Welcome to my profile!
 No, I am not going to tell you what my real name is or how to contact me, at least not yet.
 
-Have been coding since like, since middle school? I actually don't remember, it's been so long. I started coding in Java back when the main JDK version was 13 or 14, IIRC, and now it's on its way to breach 20:joy:
+Have been coding since like, since middle school? I actually don't remember, it's been so long. I started coding in Java back when the main JDK version was 13 or 14, IIRC, and now it's on its way to breach 20:joy: (Edit: I checked some of my old programming books, judging by their printing date, I apparently started coding at some point in 2016, wow.)
 
 Currently a CS student, Reasonably proficient with C/Java/Kotlin, learning C++/Ada/Haskell. You can find me at [this repository](https://github.com/TheAlgorithms/C), probably. (On the other hand, you probably found me there in the first place, then decided to pay my profile a visit)
 
-Notice: A new semester have started here in China, my availability may be limited except on weekends.
+Note: A new semester have started here in China, my availability may be limited except on weekends.
+
+[![CascadingCascade's GitHub stats](https://github-readme-stats.vercel.app/api?username=CascadingCascade&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CascadingCascade/CascadingCascade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
