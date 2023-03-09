@@ -9,7 +9,7 @@ Currently a CS student, Reasonably proficient with C/Java/Kotlin, learning Veril
 
 Note: A new semester have started here in China, my availability may be limited except on weekends.
 
-[![CascadingCascade's GitHub stats](https://github-readme-stats.vercel.app/api?username=CascadingCascade&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![CascadingCascade's GitHub stats](https://github-readme-stats-lovat-eight-39.vercel.app/api?username=CascadingCascade&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CascadingCascade/CascadingCascade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
