@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my profile!
-No, I am not going to tell you what my real name (That name you are looking at right now is, well, my new name, and yes, I stole it from a certain video game character I barely know anything about) is, at least not yet. Especially since 🏳️‍⚧️. China is not exactly the best place to live for LGBTQ+ people. 😞 (I moved my previous rant about being transgender [here](Me and My Gender.md), read it if you want, you probably don't)
+No, I am not going to tell you what my real name (That name you are looking at right now is, well, my new name, and yes, I stole it from a certain video game character I barely know anything about) is, at least not yet. Especially since 🏳️‍⚧️. China is not exactly the best place to live for LGBTQ+ people. 😞 (I moved my previous rant about being transgender [here](Me%20and%20My%20Gender.md), read it if you want, you probably don't)
 
 Have been coding since like, middle school? I actually don't remember, it's been so long. I started coding in Java back when the main JDK version was 13 or 14, IIRC, and now it's on its way to breach 20 :joy: (Edit: I checked some of my old programming books, judging by their printing date, I apparently started coding at some point in 2016, wow.)
 
