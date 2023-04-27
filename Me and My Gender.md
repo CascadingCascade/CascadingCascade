@@ -15,7 +15,7 @@ coupled with a crippling complusion to just commit suicide or at least some self
 It doesn't help that I also, by a staggering coincidence, also (professionally diagnosed as) autistic. (Bad things does happen in pairs, does they not?) 
 For example, I simply can't talk to strangers in real life and it's hard even when talking to what little friends I do have, 
 my mouth simply seize up and refuse to move, whatever words that do came out are scrambled and stammering. 
-I feel a lot of weird and repetitive compulsions every day, as well as various usual sensations. 
+I feel a lot of weird and repetitive compulsions every day, as well as various unusual sensations. 
 I also often accidently insult people IRL because I can't think about every word for hours like I am doing right now in a real time conversation. 
 Well, there are some perks too though, such an excellent memory 
 (I would say _too_ excellent, there are countless things I would rather forget, but they cling to my mind relentlessly). 
