@@ -5,7 +5,7 @@ Have been coding since like, middle school? I actually don't remember, it's been
 
 Currently a CS student, Reasonably proficient with C/Java/Kotlin/Verilog, learning C++/Ada/Haskell. You can find me at [this repository](https://github.com/TheAlgorithms/C), probably. (On the other hand, you probably found me there in the first place, then decided to pay my profile a visit)
 
-~~Note: A new semester have started here in China, my availability may be limited except on weekends.~~ Update: I've been forced into taking a break from my studies due to deteriorating mental health. Oh well, guess I'll be "first-year CS student" for one more year then:persevere:
+~~Note: A new semester have started here in China, my availability may be limited except on weekends.~~ Update: I've been forced into taking a break from my studies due to deteriorating mental health. Oh well, guess I'll be "first-year CS student" for one more year then:persevere: Edit:I have been (mostly voluntarily) committed to a psychiatric facility. Probably won't be able to touch my laptop for awhile:(
 
 [![CascadingCascade's GitHub stats](https://github-readme-stats-lovat-eight-39.vercel.app/api?username=CascadingCascade&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
